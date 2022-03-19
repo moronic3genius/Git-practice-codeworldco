@@ -22,4 +22,4 @@ This project is designed for one to practice the Git/Github workflow here at Cod
 
 ## ADD your name here
 
-- Codeworldco
+- Courtney
